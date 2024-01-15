@@ -18945,7 +18945,7 @@ colamanga.com#@#.gg_950
 /ttgg/*.js$script,third-party
 /xbhf.js$script,third-party
 ||muer.cdn-baidu.fs-sywh.com^
-!#Qq.com
+!#Qq.com 
 qq.com#@#.adsbox
 qq.com#@#.side_ad
 ##.txp_ad_center
